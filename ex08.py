@@ -8,3 +8,4 @@ cm= m*100
 mm= m*1000
 print('São {}m que equivalem à:'.format(m))
 print('{} km\n{} hm\n{} dam\n{} dc\n{} cm\n{} mm'.format(km, hm, dam, dm, cm, mm))
+
