@@ -7,3 +7,4 @@ n4 = str(input('Quarto Aluno: '))
 lista = [n1, n2, n3, n4]
 shuffle(lista)
 print('A ordem de apresentação dos trabalhos será.... \n{}'.format(lista))
+
