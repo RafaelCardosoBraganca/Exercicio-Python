@@ -10,3 +10,4 @@ print('A Letra A apareceu ao todo {} vezes'.format(a))
 print('A letra A apareceu primeiro na posição:', posicaoA)
 print('A letra A apareceu por último na posição: {}'.format(f.rfind('A')))
 
+
