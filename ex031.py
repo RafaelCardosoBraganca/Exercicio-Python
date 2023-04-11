@@ -4,7 +4,7 @@
 d=int(input('Qual a distância da sua viagem? '))
 dc= d*(1/2)
 dl= d*0.45
-if d < 200:
+if d <= 200:
     print('Sua viagem é de {}km, o preço de sua passagem será R${:.2f}'.format(d, dc))
 else:
     print('Sua viagem é de {}km, o preço de sua passagem será R${:.2f}'.format(d, dl))
